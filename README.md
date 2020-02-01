@@ -5,7 +5,7 @@
 ### App Walk-though
 Pre-work Assignment for CodePath's Mobile Application Development course
 
-<img src="http://g.recordit.co/3N5xBaKQe8.gif" width=200><br>
+<img src="http://g.recordit.co/bzZJAY27NX.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
